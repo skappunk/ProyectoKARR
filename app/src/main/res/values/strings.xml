@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="tesoem"></string>
+    <string name="nombre">Kevin Arturo Ramirez Rodriguez</string>
+    <string name="carrera">Ingenieria en Sistemas Computacionales</string>
+    <string name="grado">7S11</string>
+    <string name="menu">Menu</string>
+    <string name="instrumentos">Pulsa en los botones para visualizar informacion del instrumento</string>
+    <string name="guitarrabotonreferencia">Guitarra</string>
+    <string name="bateriabotonreferencia">Bateria</string>
+    <string name="tecladobotonreferencia">Teclado</string>
+    <string name="bajobotonreferencia"> Bajo</string>
+    <string name="trompetabotonreferencia">Trompeta</string>
+    <string name="violinbotonreferencia">Violin</string>
+    <string name="beatboxbotonreferencia">Caja de ritmos</string>
+    <string name="guitarra">Instrumento armonico de cuerdas</string>
+    <string name="bateria">Instrumento de percusion </string>
+    <string name="teclado">Instrumento armonico de teclas </string>
+    <string name="intro">***INSTRUMENTOS MUSICALES***</string>
+    <string name="guitarraboton" />
+    <string name="bajoboton" />
+    <string name="tecladoboton" />
+    <string name="bateriaboton" />
+    <string name="trompetaboton" />
+    <string name="violinboton" />
+    <string name="beatboxboton" />
+
+    <string name="acercade">Esta aplicacion esta diseñada por Kevin Arturo Ramirez Rodriguez estudiante de Ingenieria en Sistemas Computacionales
+    estudiante del TESOEM con el proposito de aprender a utilizar android studio y asi mismo la importancia de la aplicacion informativa,
+    La cual habla acerca de los instrumentos musicales.
+    Terminos y condiciones= null
+        Derechos de autor: Kevin Nash </string>
+
+    <string name="imagenguitarra"></string>
+    <string name="imagenbajo"></string>
+    <string name="imagenteclado"></string>
+    <string name="imagenviolin"></string>
+    <string name="imagenbateria"></string>
+    <string name="imagencajaderitmos"></string>
+    <string name="imagentrompeta"></string>
+
+    <string name="infoguitarra">Una guitarra eléctrica es un instrumento musical de seis cuerdas normalmente,
+        que utiliza el principio de inducción electromagnética para convertir las vibraciones de sus cuerdas
+        de metal en señales eléctricas. El sonido de la guitarra se verá influido por el diseño y ubicación de
+        las pastillas, la escala y en menor medida por el puente y la cejilla, el uso de los círculos de la escala
+        modificará el sonido de cada una de sus cuerdas.</string>
+
+    <string name="infobajo"> El bajo eléctrico, llamado sencillamente bajo,1​ es un instrumento musical melódico
+        de la familia de los cordófonos, similar en apariencia y construcción a la guitarra eléctrica, pero con
+        un cuerpo de mayores dimensiones, un mástil de mayor longitud y escala y, normalmente, cuatro cuerdas
+        afinadas según la afinación estándar del contrabajo, su antecesor.
+        Salió de la necesidad de producir los sonidos rítmicos graves con un instrumento más compacto, barato,
+        fácil de producir y transportar que el contrabajo, que era el instrumento encargado de esta tarea en los
+        años 40 y 50. Para esto, el bajo adoptó una forma bastante similar a la de la guitarra, aunque luego esto
+                       provocó que algunas personas confundieran estos dos instrumentos.</string>
+
+    <string name="infoteclado"> Un instrumento de teclado es un tipo de instrumento musical que usa un teclado
+        para interpretarlo. El teclado es la parte o sección frontal, que está provista de teclas y destinada a
+        ser accionada por medio de los dedos de las manos. Por extensión, teclado se aplica comúnmente a todo
+        instrumento musical provisto de teclado. Está compuesto por un conjunto de teclas adyacentes,
+        negras y blancas. El intervalo entre teclas adyacentes es de un semitono, y entre dos teclas corresponde
+        a un tono. Un intérprete de instrumentos de teclado es un teclista o tecladista en algunos países.</string>
+
+    <string name="infobateria"> La batería es un conjunto de instrumentos musicales de percusión usado por muchas agrupaciones musicales.
+        El término «batería» también se refiere al músico que toca estos instrumentos, al igual que el término «baterista»,
+        ambos equivalentes.1​2​ Este instrumento nació de la necesidad de producir diferentes percusiones en un solo sistema agrupado
+        y cómodo para tocar simultáneamente por una sola persona.</string>
+
+    <string name="infoviolin"> El violín (del italiano violino, diminutivo de viola) es un instrumento de origen italiano
+        de cuerdas frotadas (también llamado "de arco"), que tiene cuatro de ellas. Es el más pequeño y agudo de la familia
+        de los instrumentos de cuerda clásicos, los cuales están integrados por el violín, la viola, el violonchelo y el contrabajo,
+        todos ellos derivados de las violas medievales, en especial de la fídula. (El contrabajo es el bajo de esa familia, y
+        se llamaba en su origen "bajo de viola" como figura en otros artículos relacionados de esta enciclopedia).
+        En los violines antiguos, las cuerdas eran de tripa. Hoy pueden ser también de metal o de tripa entorchada
+        con aluminio, plata o acero; la cuerda en mi, la más aguda ―llamada cantino― es directamente un hilo de acero, y, ocasionalmente, de oro.
+        </string>
+
+    <string name="infotrompeta"> La trompeta es un instrumento musical de viento, perteneciente a la familia de los instrumentos
+        de viento metal o metales, fabricado en aleación de metal. El sonido se produce gracias a la vibración de los labios del
+        intérprete en la parte denominada boquilla a partir de la columna del aire (flujo del aire).
+        Comúnmente, suele estar afinada en si ♭ (bemol), es decir, un tono por debajo de la afinación escrita en el pentagrama,
+        aunque también hay trompetas afinadas en fa, en do, en la y en mi ♭ —bemol—.
+        Al músico que toca la trompeta se le conoce como trompetista o trompeta.</string>
+
+    <string name="infocajaderitmos">Una caja de ritmos es un instrumento musical electrónico que permite componer, programar
+        y reproducir patrones de ritmo mediante un secuenciador interno y un generador de sonidos de Instrumentos de percusión.
+        Los sonidos están almacenados en forma de librería y se agrupan en forma de sets según su tipología (baterías acústicas,
+        percusiones latinas, percusiones étnicas, electrónica, etc). La capacidad de edición de éstos varía según las prestaciones
+        del aparato, existiendo modelos muy potentes que se pueden considerar como verdaderos sintetizadores de percusión.</string>
+
+    <string name="regresarmenu">Regresar</string>
+    <string name="menu2">Regresar</string>
+    <string name="menu3">Regresar</string>
+    <string name="menu4">Regresar</string>
+    <string name="menu5">Regresar</string>
+    <string name="menu6">Regresar</string>
+    <string name="aboutthis">Acerca De</string>
+    <string name="menu7">Regresar</string>
+
+
+</resources>
